@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecugenConnector</string>
+    <string name="scan_fingerprint">Scan Fingerprint</string>
+</resources>
